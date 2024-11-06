@@ -42,3 +42,6 @@ A periodic signal that forms a triangle shape, linearly increasing and decreasin
 9.	Exponential signal:
 A signal that increases or decreases exponentially with time. The rate of growth or decay is determined by the constant a . It’s general form is,
  x (n) = an for all n.
+# OBSERVATION
+![image](https://github.com/user-attachments/assets/b120faa0-2a57-4633-a008-4526f095f2d4)
+
